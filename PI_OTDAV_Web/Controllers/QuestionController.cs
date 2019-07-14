@@ -1,6 +1,8 @@
-﻿using DS.Domain.Entities;
-using DS.Presentation.Models;
-using DS.Service;
+﻿
+
+using PI_OTDAV_Domain;
+using PI_OTDAV_Services;
+using PI_OTDAV_Web.Models;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -9,7 +11,7 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
-namespace DS.Presentation.Controllers
+namespace PI_OTDAV_Web.Controllers
 {
     public class QuestionController : Controller
     {

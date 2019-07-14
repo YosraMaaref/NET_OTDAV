@@ -396,10 +396,12 @@ C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.M
 C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.csprojResolveAssemblyReference.cache
 C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.dll
 C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.pdb
-C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\DS.Domain.exe
-C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\DS.Service.dll
 C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Service.Pattern.dll
-C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\DS.Domain.pdb
-C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\DS.Service.pdb
 C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Service.Pattern.pdb
 C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\DotNet.Highcharts.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.pdb

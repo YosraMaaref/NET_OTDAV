@@ -5,11 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_OTDAV_Web", "PI_OTDAV_Web\PI_OTDAV_Web.csproj", "{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Domain", "E:\DS_exam\DS_exam\DS.Domain\DS.Domain.csproj", "{495D993E-4D86-4C4D-8BC7-87AECCACC1BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_OTDAV_Domain", "PI_OTDAV_Domain\PI_OTDAV_Domain.csproj", "{840E823C-EBE5-47B9-90BE-668E90F5FC19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DS.Service", "E:\DS_exam\DS_exam\DS.Service\DS.Service.csproj", "{128EF141-D3FF-4C8F-ADC7-1BE48F3B32E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_OTDAV_Services", "PI_OTDAV_Services\PI_OTDAV_Services.csproj", "{B7CE328B-F972-48D9-9A52-9F747E997CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Pattern", "E:\DS_exam\DS_exam\Service.Pattern\Service.Pattern.csproj", "{20280975-3F4F-4F5F-90C1-7FF91E8383D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_OTDAV_ServicePattern", "PI_OTDAV_ServicePattern\PI_OTDAV_ServicePattern.csproj", "{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,18 @@ Global
 		{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{495D993E-4D86-4C4D-8BC7-87AECCACC1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{495D993E-4D86-4C4D-8BC7-87AECCACC1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{495D993E-4D86-4C4D-8BC7-87AECCACC1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{495D993E-4D86-4C4D-8BC7-87AECCACC1BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{128EF141-D3FF-4C8F-ADC7-1BE48F3B32E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{128EF141-D3FF-4C8F-ADC7-1BE48F3B32E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{128EF141-D3FF-4C8F-ADC7-1BE48F3B32E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{128EF141-D3FF-4C8F-ADC7-1BE48F3B32E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{20280975-3F4F-4F5F-90C1-7FF91E8383D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{20280975-3F4F-4F5F-90C1-7FF91E8383D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{20280975-3F4F-4F5F-90C1-7FF91E8383D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{20280975-3F4F-4F5F-90C1-7FF91E8383D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840E823C-EBE5-47B9-90BE-668E90F5FC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840E823C-EBE5-47B9-90BE-668E90F5FC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840E823C-EBE5-47B9-90BE-668E90F5FC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840E823C-EBE5-47B9-90BE-668E90F5FC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CE328B-F972-48D9-9A52-9F747E997CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CE328B-F972-48D9-9A52-9F747E997CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CE328B-F972-48D9-9A52-9F747E997CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CE328B-F972-48D9-9A52-9F747E997CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

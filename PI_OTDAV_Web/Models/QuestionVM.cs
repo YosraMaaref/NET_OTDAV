@@ -1,11 +1,11 @@
-﻿using DS.Domain.Entities;
+﻿using PI_OTDAV_Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Collections;
 
-namespace DS.Presentation.Models
+namespace PI_OTDAV_Web.Models
 {
     public class QuestionVM : IEnumerable<QuestionVM>
     {

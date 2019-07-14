@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using DS.Service;
+
 using PI_OTDAV_Web.Models;
 using System.Threading.Tasks;
-using DS.Domain.Entities;
+using PI_OTDAV_Domain;
+using PI_OTDAV_Services;
 
 namespace PI_OTDAV_Web.Controllers
 {

@@ -390,13 +390,13 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="E:\DS_exam\DS_exam\DS.Domain\DS.Domain.csproj">
-      <Project>{495d993e-4d86-4c4d-8bc7-87aeccacc1bc}</Project>
-      <Name>DS.Domain</Name>
+    <ProjectReference Include="..\PI_OTDAV_Domain\PI_OTDAV_Domain.csproj">
+      <Project>{840e823c-ebe5-47b9-90be-668e90f5fc19}</Project>
+      <Name>PI_OTDAV_Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="E:\DS_exam\DS_exam\DS.Service\DS.Service.csproj">
-      <Project>{128ef141-d3ff-4c8f-adc7-1be48f3b32e5}</Project>
-      <Name>DS.Service</Name>
+    <ProjectReference Include="..\PI_OTDAV_Services\PI_OTDAV_Services.csproj">
+      <Project>{b7ce328b-f972-48d9-9a52-9f747e997ce5}</Project>
+      <Name>PI_OTDAV_Services</Name>
     </ProjectReference>
     <ProjectReference Include="E:\DS_exam\DS_exam\Service.Pattern\Service.Pattern.csproj">
       <Project>{20280975-3f4f-4f5f-90c1-7ff91e8383d0}</Project>
